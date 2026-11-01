@@ -28,18 +28,18 @@ It includes a basic HTTP server using the built-in Node.js HTTP module and an Ex
 ## Project Structure
 
 ```text
-lab-01/
-├── screenshots/
-│   ├── 01-home.png
-│   ├── 02-about.png
-│   ├── 03-time.png
-│   ├── 04-not-found.png
-│   └── 05-terminal.png
-├── app.js
-├── server-http.js
-├── package.json
-├── package-lock.json
-└── README.md
+screenshots/
+├── 01-home.png
+├── 02-about.png
+├── 03-time.png
+├── 04-not-found.png
+└── 05-terminal.png
+
+app.js
+server-http.js
+package.json
+package-lock.json
+README.md
 ```
 
 ## How to Run
@@ -57,10 +57,10 @@ lab-01/
 git clone https://github.com/lokeshgoud730/Backend-Development-Express.git
 ```
 
-2. Navigate to the lab folder.
+2. Navigate to the project folder.
 
 ```bash
-cd Backend-Development-Express/lab-01
+cd Backend-Development-Express
 ```
 
 3. Install dependencies.
