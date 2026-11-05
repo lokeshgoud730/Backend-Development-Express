@@ -1,13 +1,13 @@
 {
   "name": "lab-01",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Lab 1: Node.js and Express Server",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lokesh",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
